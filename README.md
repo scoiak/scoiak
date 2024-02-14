@@ -3,7 +3,7 @@
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/scoiak/)](https://github.com/scoiak/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiocs/)](https://www.linkedin.com/in/kaiocs/)
 
-:bust_in_silhouette: Software Developer @ [PicPay](https://picpay.com/)
+:bust_in_silhouette: Software Developer @PicPay
 
 
 <div align="left">  
